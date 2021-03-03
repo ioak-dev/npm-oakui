@@ -1,0 +1,1 @@
+{"version":3,"file":"OakMenuComposer.js","sourceRoot":"","sources":["../../src/style-composer/OakMenuComposer.ts"],"names":[],"mappings":"AAAA,MAAM,eAAe,GAAG,iBAAiB,CAAC;AAM1C,MAAM,UAAU,OAAO,CAAC,KAAmB;IACzC,IAAI,MAAM,GAAG,eAAe,CAAC;IAE7B,MAAM,IAAI,IAAI,eAAe,KAAK,KAAK,CAAC,OAAO,IAAI,MAAM,EAAE,CAAC;IAE5D,OAAO,MAAM,CAAC;AAChB,CAAC"}

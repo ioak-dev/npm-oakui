@@ -1,0 +1,1 @@
+{"version":3,"file":"RadioRegisterEvent.d.ts","sourceRoot":"","sources":["../../../src/_internal/events/RadioRegisterEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,OAAO,EAAC,MAAM,MAAM,CAAC;AAE7B,eAAO,MAAM,oBAAoB,4BAAmC,CAAC;AAErE,UAAU,iBAAiB;IACzB,IAAI,EAAE,MAAM,CAAC;IACb,cAAc,EAAE,MAAM,CAAC;CACxB"}

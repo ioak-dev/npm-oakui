@@ -1,0 +1,1 @@
+{"version":3,"file":"CheckboxRegisterEvent.d.ts","sourceRoot":"","sources":["../../../src/_internal/events/CheckboxRegisterEvent.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,OAAO,EAAC,MAAM,MAAM,CAAC;AAE7B,eAAO,MAAM,uBAAuB,+BAAsC,CAAC;AAE3E,UAAU,oBAAoB;IAC5B,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,OAAO,CAAC;IACf,iBAAiB,EAAE,MAAM,CAAC;CAC3B"}

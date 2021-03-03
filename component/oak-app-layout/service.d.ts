@@ -1,0 +1,4 @@
+export declare function recomputeDimensionsLeft(drawerType: 'side' | 'over' | 'push', topbarEl: HTMLElement | null, contentEl: HTMLElement | null, leftDrawerEl: HTMLElement | null, leftDrawerOpen: boolean, topbarVariant: 'sticky' | 'static' | 'auto'): void;
+export declare function recomputeDimensionsRight(drawerType: 'side' | 'over' | 'push', topbarEl: HTMLElement | null, contentEl: HTMLElement | null, rightDrawerEl: HTMLElement | null, rightDrawerOpen: boolean, topbarVariant: 'sticky' | 'static' | 'auto'): void;
+export declare function recomputeTopbarSpacing(topbarEl: HTMLElement | null, contentEl: HTMLElement | null, topbarVariant: 'sticky' | 'static' | 'auto'): void;
+//# sourceMappingURL=service.d.ts.map
